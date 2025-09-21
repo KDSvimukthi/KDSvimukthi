@@ -19,7 +19,7 @@
 <h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/KDSvimukthi "> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/KDSvimukthi " /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kdsvimukthi&show_icons=true&locale=en&layout=compact" alt="kdsvimukthi" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kdsvimukthi&show_icons=true&locale=en&layout=compact" alt="kdsvimukthi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kdsvimukthi&show_icons=true&locale=en" alt="kdsvimukthi" /></p>
 
