@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KDS Vimukthi</h1>
+<h1 align="center" color="lightblue">Hi 👋, I'm KDS Vimukthi</h1>
 <h3 align="center"></h3>
 
 <p align="center"> <a href="https://twitter.com/kdsvimukthi" target="blank"><img src="https://img.shields.io/twitter/follow/kdsvimukthi?logo=twitter&style=for-the-badge" alt="kdsvimukthi" /></a> </p>
