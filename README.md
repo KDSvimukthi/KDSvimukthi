@@ -5,8 +5,8 @@
 
 - 📫 How to reach me **kdssupunvimukthi@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/kdsvimukthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kdsvimukthi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/kds-vimukthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kds-vimukthi" height="30" width="40" /></a>
 <a href="https://medium.com/@kdssupunvimukthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kdssupunvimukthi" height="30" width="40" /></a>
